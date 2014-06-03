@@ -8,6 +8,7 @@
     "angularjs",
     "nobackend"
   ],
+  "main": "./hoodie.angularjs.js",
   "private": false,
   "ignore": [
     "**/.*",
